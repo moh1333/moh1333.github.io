@@ -19,8 +19,8 @@ My work primarily focuses on aligning the theory and design of machine learning 
 Papers
 ======
 
-- Balancing Performance and Costs in Best Arm Identification
-  Michael O. Harding and Kirthevasan Kandasamy
+- Balancing Performance and Costs in Best Arm Identification\
+  Michael O. Harding and Kirthevasan Kandasamy\
   [[arxiv](https://arxiv.org/abs/2505.20583)]
 
 Awards and Honors

@@ -22,7 +22,7 @@ repository               : "moh1333/moh1333.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Harding-Michael.jpg" # filename of avatar image placed in /images/, e.g. "500x300.png"
+  avatar           : "Harding-Michael.JPG" # filename of avatar image placed in /images/, e.g. "500x300.png"
   name             : "Michael O. Harding" # name of the author
   pronouns         : "He/Him/His" # example: "she/her"  
   bio              : "Statistics PhD Student"
