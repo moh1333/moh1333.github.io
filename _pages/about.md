@@ -19,24 +19,24 @@ My work broadly focuses on designing machine learning systems which explicitly a
 Papers
 ======
 
-Balancing Performance and Costs in Best Arm Identification\
-Michael O. Harding and Kirthevasan Kandasamy\
-Advances in Neural Information Processing Systems (NeurIPS) 2025 [[arxiv](https://arxiv.org/abs/2505.20583)]
+- Balancing Performance and Costs in Best Arm Identification\
+  Michael O. Harding and Kirthevasan Kandasamy\
+  Advances in Neural Information Processing Systems (NeurIPS) 2025 [[arxiv](https://arxiv.org/abs/2505.20583)]
 
 Awards and Honors
 ======
 
-Institute for Foundations of Data Science (IFDS) Fall 2025 Research Assistantship\
-UW-Madison Statistics Department Summer 2025 Research Fellowship\
-UW-Madison L&S Advanced Achievement in Teaching Award Nominee\
-UW-Madison L&S Early Excellence in Teaching Award Nominee\
-Outstanding Performance as a TA for a Statistics Gateway Course\
-Boston University CAS College Prize for Excellence in Mathematics and Statistics\
+- Institute for Foundations of Data Science (IFDS) Fall 2025 Research Assistantship\
+- UW-Madison Statistics Department Summer 2025 Research Fellowship\
+- UW-Madison L&S Advanced Achievement in Teaching Award Nominee\
+- UW-Madison L&S Early Excellence in Teaching Award Nominee\
+- Outstanding Performance as a TA for a Statistics Gateway Course\
+- Boston University CAS College Prize for Excellence in Mathematics and Statistics\
 
 Teaching
 ======
 
-Introduction to Mathematical Statistics (STAT 311) TA: Spring 2025\
-Financial Statistics (STAT 461) TA: Fall 2023 and 2024\
-Machine Learning (STAT 451) TA: Spring and Summer 2024\
-Introductory Applied Statistics (STAT 324/371) TA: Fall 2022, Spring and Summer 2023
+- Introduction to Mathematical Statistics (STAT 311) TA: Spring 2025\
+- Financial Statistics (STAT 461) TA: Fall 2023 and 2024\
+- Machine Learning (STAT 451) TA: Spring and Summer 2024\
+- Introductory Applied Statistics (STAT 324/371) TA: Fall 2022, Spring and Summer 2023
