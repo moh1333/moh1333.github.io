@@ -47,3 +47,8 @@ Teaching
 - Financial Statistics (STAT 461) TA: Fall 2023 and 2024
 - Machine Learning (STAT 451) TA: Spring and Summer 2024
 - Introductory Applied Statistics (STAT 324/371) TA: Fall 2022, Spring and Summer 2023
+
+Service
+======
+
+- UW-Madison Statistics Graduate Student Association Student Representative to the Faculty
