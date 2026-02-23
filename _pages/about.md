@@ -11,22 +11,29 @@ Hi there! I'm a fourth year PhD student in the department of [Statistics](https:
 
 I'm also currently working as a Statistical Consultant with the [Statistical Consulting Group](https://stat.wisc.edu/statistical-consulting/) at UW-Madison. I provide assistance to clients in a variety of fields such as Plant Pathology, Soil Science, Food Science, and Biochemistry, among others, on various aspects of the research process. This includes, but is not limited to, experimental design, data analysis and visualization, manuscript preparation, and responding to reviewer comments during the peer review process.
 
+I was recently highlighted by the UW-Madison Statistics Department in [this article](https://stat.wisc.edu/2026/01/14/qa-michael-harding-on-creating-an-impactful-phd-experience-through-teaching-research-and-collaboration/), where I discuss my journey to grad school, my current research, and my experiences as a TA and statistical consultant.
+
 Research
 ======
 
-My work broadly focuses on designing machine learning systems which explicitly account for the costs associated with data collection. I'm currently working on applications in sequential decision making, mechanism design, and multi-source learning. I'm always happy to "talk shop," so if any of this interests you, or you want to chat about any other related topics, please don't hesitate to reach out!
+My work broadly focuses on designing machine learning systems which explicitly account for the costs associated with data collection. I'm currently working on applications in bandits, mechanism design, and multi-source learning. I'm always happy to "talk shop," so if any of this interests you, or you want to chat about any other related topics, please don't hesitate to reach out!
 
 Papers
 ======
 
+- **Learning from Biased and Costly Data Sources: Minimax-optimal Data Collection under a Budget**\
+  Michael O. Harding, Vikas Singh,  Kirthevasan Kandasamy\
+  [[arxiv](https://arxiv.org/abs/2602.17894)]
+
 - **Balancing Performance and Costs in Best Arm Identification**\
-  Michael O. Harding and Kirthevasan Kandasamy\
+  Michael O. Harding, Kirthevasan Kandasamy\
   Advances in Neural Information Processing Systems (NeurIPS) 2025 [[arxiv](https://arxiv.org/abs/2505.20583)]
 
 Awards and Honors
 ======
 
-- Institute for Foundations of Data Science (IFDS) Fall 2025 Research Assistantship
+- Institute for Foundations of Data Science ([IFDS](https://ifds.info/)) Spring 2026 Research Assistantship
+- Institute for Foundations of Data Science ([IFDS](https://ifds.info/)) Fall 2025 Research Assistantship
 - UW-Madison Statistics Department Summer 2025 Research Fellowship
 - UW-Madison L&S Advanced Achievement in Teaching Award Nominee
 - UW-Madison L&S Early Excellence in Teaching Award Nominee

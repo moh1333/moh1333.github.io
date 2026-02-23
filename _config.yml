@@ -27,14 +27,14 @@ author:
   pronouns         : "He/Him/His" # example: "she/her"  
   bio              : "Statistics PhD Student"
   location         : # "Madison, WI"
-  employer         : "Univeristy of Wisconsin-Madison"
+  employer         : "University of Wisconsin-Madison"
   uri              : # URL
   email            : "moharding@wisc.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=QirvpocAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
