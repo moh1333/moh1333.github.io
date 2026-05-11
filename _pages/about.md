@@ -16,14 +16,14 @@ I was recently highlighted by the UW-Madison Statistics Department in [this arti
 Research
 ======
 
-My work broadly focuses on designing machine learning systems which explicitly account for the costs associated with data collection. I'm currently working on applications in bandits, mechanism design, and multi-source learning. I'm always happy to "talk shop," so if any of this interests you, or you want to chat about any other related topics, please don't hesitate to reach out!
+My work broadly focuses on designing machine learning systems which explicitly account for the costs associated with data collection. I'm currently working on applications in bandits, mechanism design, and multi-source learning, and I enjoy finding ways to combine ideas in game theory, classical statistics, and modern statistical learning theory to derive my results. I'm always happy to "talk shop," so if any of this interests you, or you want to chat about any other related topics, please don't hesitate to reach out!
 
 Papers
 ======
 
 - **Learning from Biased and Costly Data Sources: Minimax-optimal Data Collection under a Budget**\
   Michael O. Harding, Vikas Singh,  Kirthevasan Kandasamy\
-  [[arxiv](https://arxiv.org/abs/2602.17894)]
+  Conference on Learning Theory (COLT) 2026 [[arxiv](https://arxiv.org/abs/2602.17894)]
 
 - **Balancing Performance and Costs in Best Arm Identification**\
   Michael O. Harding, Kirthevasan Kandasamy\
@@ -33,6 +33,7 @@ Awards and Honors
 ======
 
 - Institute for Foundations of Data Science ([IFDS](https://ifds.info/)) Spring 2026 Research Assistantship
+- NeurIPS 2025 Scholar Award
 - Institute for Foundations of Data Science ([IFDS](https://ifds.info/)) Fall 2025 Research Assistantship
 - UW-Madison Statistics Department Summer 2025 Research Fellowship
 - UW-Madison L&S Advanced Achievement in Teaching Award Nominee
@@ -51,4 +52,5 @@ Teaching
 Service
 ======
 
-- UW-Madison Statistics Graduate Student Association Student Representative to the Faculty
+- NeurIPS 2026 Reviewer
+- UW-Madison Statistics Graduate Student Association Student Representative to the Faculty (2024--Current)
