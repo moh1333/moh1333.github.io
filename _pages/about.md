@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm a fourth year PhD student in the department of [Statistics](https://stat.wisc.edu) at the [University of Wisconsin-Madison](https://wisc.edu), working with Professor [Kirthevasan Kandasamy](https://pages.cs.wisc.edu/~kandasamy/index.html). Prior to coming to UW-Madison, I earned my Bachelor's and Master's degrees in Mathematics and Statistics at [Boston University](https://www.bu.edu) and worked as a Data Scientist in the Consumer Insights and Analytics department at [Lehigh Valley Health Network](https://www.lvhn.org/).
-
-I'm also currently working as a Statistical Consultant with the [Statistical Consulting Group](https://stat.wisc.edu/statistical-consulting/) at UW-Madison. I provide assistance to clients in a variety of fields such as Plant Pathology, Soil Science, Food Science, and Biochemistry, among others, on various aspects of the research process. This includes, but is not limited to, experimental design, data analysis and visualization, manuscript preparation, and responding to reviewer comments during the peer review process.
+Hi there! I'm a fifth-year PhD student in the department of [Statistics](https://stat.wisc.edu) at the [University of Wisconsin-Madison](https://wisc.edu), working with Professor [Kirthevasan Kandasamy](https://pages.cs.wisc.edu/~kandasamy/index.html). Prior to coming to UW-Madison, I earned my Bachelor's and Master's degrees in Mathematics and Statistics at [Boston University](https://www.bu.edu) and worked as a Data Scientist in the Consumer Insights and Analytics department at [Lehigh Valley Health Network](https://www.lvhn.org/).
 
 I was recently highlighted by the UW-Madison Statistics Department in [this article](https://stat.wisc.edu/2026/01/14/qa-michael-harding-on-creating-an-impactful-phd-experience-through-teaching-research-and-collaboration/), where I discuss my journey to grad school, my current research, and my experiences as a TA and statistical consultant.
 
@@ -17,6 +15,13 @@ Research
 ======
 
 My work broadly focuses on designing machine learning systems which explicitly account for the costs associated with data collection. I'm currently working on applications in bandits, mechanism design, and multi-source learning, and I enjoy finding ways to combine ideas in game theory, classical statistics, and modern statistical learning theory to derive my results. I'm always happy to "talk shop," so if any of this interests you, or you want to chat about any other related topics, please don't hesitate to reach out!
+
+Other Experience
+======
+
+This fall, I'm serving as the lecturer for section 003 of STAT 371: Introductory Applied Statistics for the Life Sciences. In my teaching, I aim to provide students with a welcoming introduction to the world of statistics, and to teach them, first and foremost, to be skeptics when they interact with statistical claims "in the wild." 
+
+From May 2023 until May 2026, I also worked as a Statistical Consultant with the [Statistical Consulting Group](https://stat.wisc.edu/statistical-consulting/) at UW-Madison. I provided assistance to clients in a variety of fields such as Plant Pathology, Soil Science, Food Science, and Genetics, among others, on various aspects of the research process. This includes, but is not limited to, experimental design, data analysis and visualization, manuscript preparation, and responding to reviewer comments during the peer review process.
 
 Papers
 ======
@@ -38,12 +43,13 @@ Awards and Honors
 - UW-Madison Statistics Department Summer 2025 Research Fellowship
 - UW-Madison L&S Advanced Achievement in Teaching Award Nominee
 - UW-Madison L&S Early Excellence in Teaching Award Nominee
-- Outstanding Performance as a TA for a Statistics Gateway Course
+- Outstanding Performance as a TA for a Statistics Gateway Course Award
 - Boston University CAS College Prize for Excellence in Mathematics and Statistics
 
 Teaching
 ======
 
+- Introductory Applied Statistics for the Life Sciences (STAT 371) Primary Instructor: Fall 2026
 - Introduction to Mathematical Statistics (STAT 311) TA: Spring 2025
 - Financial Statistics (STAT 461) TA: Fall 2023 and 2024
 - Machine Learning (STAT 451) TA: Spring and Summer 2024
@@ -53,4 +59,4 @@ Service
 ======
 
 - NeurIPS 2026 Reviewer
-- UW-Madison Statistics Graduate Student Association Student Representative to the Faculty (2024--Current)
+- Student Representative to the Faculty, UW-Madison Statistics Graduate Student Association (2024--Current)
